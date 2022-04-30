@@ -1,2 +1,3 @@
-# zsh-prompt-screenshot
-screenshot for zsh-prompt
+# mzpt-screenshot
+
+screenshot for mzpt
